@@ -1,0 +1,26 @@
+{
+  "name": "sf-weather",
+  "version": "0.0.1",
+  "description": "json for sf weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zamfi/sf-weather"
+  },
+  "keywords": [
+    "sf",
+    "weather"
+  ],
+  "author": "J.D. Zamfirescu <zamfire@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/zamfi/sf-weather/issues"
+  },
+  "homepage": "https://github.com/zamfi/sf-weather",
+  "dependencies": {
+    "csv": "^0.4.0"
+  }
+}
